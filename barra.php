@@ -7,6 +7,7 @@
         </li>
     </ul>
     <span class="navbar-text">
+        <!-- jhjhjhjhj -->
             <div class="dropdown">
                 <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false">
                 <i class="bi bi-person-circle">&nbsp;</i><?php echo @$usuario_id ?>
